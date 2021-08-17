@@ -1,0 +1,6 @@
+Update this file with your own words. 
+They have to be in seperate lines, for example:
+
+AAA
+AAB
+AAC
