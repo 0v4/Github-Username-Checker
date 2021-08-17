@@ -42,7 +42,7 @@ Run through the installer as normal, then download the checker files.
 
 Download the following file:
 
-`--------------`
+`https://github.com/6wh/Github-Checker.git`
 
 Extract the folder
 
