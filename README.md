@@ -1,2 +1,2 @@
-# githubchecker
-github username checker
+# GITHUB CHECKER
+Github Username Checker
