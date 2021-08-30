@@ -7,3 +7,5 @@ Download the .zip, open cmd in the folder and type:
 Type
 
 'py main.py' to run the program.
+
+Fill the wordlist.txt file with your desired names, they all must be in separate lines otherwise it won't work.
